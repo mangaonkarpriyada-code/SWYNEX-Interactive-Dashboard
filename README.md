@@ -20,7 +20,7 @@ An interactive student performance dashboard built with Python, Streamlit, Panda
 ![Dashboard Overview](screenshots/dashboard-overview.png)
 
 ### 2. Data Exploration
-![Data Exploration](screenshots/data-explore.png)
+![Data Exploration](screenshots/data-explorer.png)
 
 ### 3. Performance Analysis
 ![Performance Analysis](screenshots/performance-analysis.png)
