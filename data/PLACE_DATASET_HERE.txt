@@ -1,0 +1,1 @@
+Copy cleaned_student_data.csv from your SWYNEX Task2-EDA/data folder into this data folder.
